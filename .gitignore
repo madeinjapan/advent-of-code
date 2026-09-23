@@ -1,0 +1,5 @@
+input
+*.input.txt
+puzzle.md
+*.hu.md
+.adventofcode.session
